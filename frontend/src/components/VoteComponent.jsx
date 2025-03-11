@@ -20,6 +20,7 @@ function VoteComponent() {
             setDecision("An error occurred. Please try again.");
         }
     };
+    
 
     return (
         <div>
